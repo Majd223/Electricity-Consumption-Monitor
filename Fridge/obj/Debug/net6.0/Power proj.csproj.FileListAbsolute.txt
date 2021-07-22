@@ -1,0 +1,40 @@
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Power proj.exe
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Power proj.deps.json
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Power proj.runtimeconfig.json
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Power proj.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\ref\Power proj.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Power proj.pdb
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Azure.Core.Experimental.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\AzureMapsRestToolkit.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Buffers.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Codecs.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Common.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Handlers.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\DotNetty.Transport.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Azure.Devices.Provisioning.Client.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Azure.Devices.Provisioning.Transport.Mqtt.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.csproj.AssemblyReference.cache
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.AssemblyInfoInputs.cache
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.AssemblyInfo.cs
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.csproj.CoreCompileInputs.cache
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.csproj.CopyComplete
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\ref\Power proj.dll
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.pdb
+C:\Users\Majd_\Desktop\Power proj\Fridge\obj\Debug\net6.0\Power proj.genruntimeconfig.cache
